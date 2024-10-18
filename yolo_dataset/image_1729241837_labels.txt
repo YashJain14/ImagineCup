@@ -1,0 +1,101 @@
+0: a (unknown) - thumbnail
+5: yt-icon-button (button) - guide-button
+1: button (submit) - Guide
+5: yt-interaction (unknown) - interaction
+0: a (unknown) - YouTube Home
+2: input (text) - Search
+1: button (submit) - Search
+1: button (submit) - Search with your voice
+5: div (unknown) - No label
+5: div (unknown) - button
+0: a (unknown) - No label
+5: yt-icon-button (button) - button
+1: button (submit) - Settings
+5: yt-icon (unknown) - No label
+5: yt-interaction (unknown) - interaction
+0: a (unknown) - Sign in
+5: div (unknown) - No label
+5: div (unknown) - Sign in
+0: a (link) - Home
+5: tp-yt-paper-item (link) - Home
+0: a (link) - Shorts
+5: tp-yt-paper-item (link) - Shorts
+0: a (link) - Subscriptions
+5: tp-yt-paper-item (link) - Subscriptions
+0: a (link) - You
+5: tp-yt-paper-item (link) - You
+0: a (link) - History
+5: tp-yt-paper-item (link) - History
+0: a (unknown) - Sign in
+5: div (unknown) - No label
+5: div (unknown) - Sign in
+0: a (link) - Trending
+5: tp-yt-paper-item (link) - Trending
+0: a (link) - Music
+5: tp-yt-paper-item (link) - Music
+0: a (link) - Films
+5: tp-yt-paper-item (link) - Films
+0: a (link) - Gaming
+5: tp-yt-paper-item (link) - Gaming
+0: a (link) - News
+5: tp-yt-paper-item (link) - News
+0: a (link) - Sport
+5: tp-yt-paper-item (link) - Sport
+5: div (unknown) - No label
+5: yt-description-preview-view-model (unknown) - Hey! I'm Yash Chopra (Jain), currently an international student at Nanyang Technological University (NTU) Singapore. 
+...more
+1: button (submit) - No label
+1: button (submit) - ...more
+0: a (unknown) - yashchopra.xyz
+0: a (button) - and 3 more links
+5: button-view-model (unknown) - Subscribe
+1: button (submit) - Subscribe
+5: div (unknown) - Subscribe
+5: tp-yt-paper-tabs (tablist) - Home
+Videos
+Shorts
+Podcasts
+Playlists
+5: yt-tab-shape (tab) - Home
+5: yt-tab-shape (tab) - Videos
+5: yt-tab-shape (tab) - Shorts
+5: yt-tab-shape (tab) - Podcasts
+5: yt-tab-shape (tab) - Playlists
+5: yt-icon-button (button) - icon-button
+1: button (submit) - Search
+5: yt-interaction (unknown) - interaction
+5: tp-yt-paper-input (unknown) - query
+5: label (unknown) - paper-input-label-1
+2: input (text) - query
+5: div (unknown) - My Year 1 Semester 1 at NTU Singapore as Indian International Student | Vlog 1 #NTU #NTUsg
+0:00 / 3:36
+5: video (unknown) - No label
+0: a (unknown) - My Year 1 Semester 1 at NTU Singapore as Indian International Student | Vlog 1 #NTU #NTUsg
+5: div (unknown) - No label
+1: button (submit) - More
+1: button (submit) - Play
+5: path (unknown) - No label
+5: div (slider) - Seek slider
+1: button (submit) - Pause (k)
+1: button (submit) - Mute (m)
+1: button (submit) - Subtitles/closed captions unavailable
+5: svg (unknown) - No label
+1: button (submit) - Settings
+1: button (submit) - Full screen (f)
+5: g (unknown) - No label
+5: g (unknown) - No label
+5: g (unknown) - No label
+5: g (unknown) - No label
+0: a (unknown) - My Year 1 Semester 1 at NTU Singapore as Indian International Student |  Vlog 1 #NTU #NTUsg
+0: a (unknown) - No label
+0: a (unknown) - No label
+5: tp-yt-paper-button (button) - READ MORE
+5: yt-formatted-string (unknown) - READ MORE
+0: a (unknown) - READ MORE
+0: a (unknown) - Videos
+0: a (unknown) - 3:59
+0: a (unknown) - 3:59
+0: a (unknown) - 10:00
+0: a (unknown) - 1:59
+0: a (unknown) - 2:13
+0: a (unknown) - thumbnail

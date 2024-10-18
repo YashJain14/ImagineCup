@@ -17,7 +17,7 @@ def get_interactive_elements_and_screenshot(url):
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         
         # Wait for the page to stabilize
-        time.sleep(5)
+        time.sleep(2)
         
         # Get viewport dimensions and scroll position
         viewport_metrics = driver.execute_script("""
@@ -141,7 +141,7 @@ def draw_bounding_boxes(screenshot, elements_info, viewport_metrics):
     return image
 
 # Example usage
-url = "https://www.youtube.com/@YashChopra14"
+url = "https://weaverai.in"
 elements_info, screenshot, viewport_metrics = get_interactive_elements_and_screenshot(url)
 
 # Draw bounding boxes on the screenshot
