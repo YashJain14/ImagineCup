@@ -1,0 +1,34 @@
+{
+  "url": "https://photobucket.com",
+  "category": "mostvisited",
+  "timestamp": 1729631115,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 232.0,
+        "y1": 26.0,
+        "x2": 532.0,
+        "y2": 95.578125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Photobucket Homepage",
+        "title": "home page",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Photobucket Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Photobucket Homepage",
+      "element": 

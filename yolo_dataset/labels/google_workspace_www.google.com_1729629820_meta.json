@@ -1,0 +1,34 @@
+{
+  "url": "https://www.google.com/docs/about/",
+  "category": "google_workspace",
+  "timestamp": 1729629822,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 18.5,
+        "x2": 219.265625,
+        "y2": 45.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Google Workspace",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Workspace",
+      "element": 

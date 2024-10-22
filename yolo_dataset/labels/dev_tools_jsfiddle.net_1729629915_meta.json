@@ -1,0 +1,34 @@
+{
+  "url": "https://jsfiddle.net",
+  "category": "dev_tools",
+  "timestamp": 1729629918,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1500.0,
+        "y1": 807.25,
+        "x2": 1900.0,
+        "y2": 921.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Auth0 by Okta \u2014 Auth0 now, thank yourself later.",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "GET STARTED FOR FREE\nBoost your app\u2019s Identity with Auth0. Now with Custom Domain, Passwordless, and more!\nSPONSORED BY AUTH0 BY OKTA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Auth0 by Okta \u2014 Auth0 now, ...",
+      "element": 

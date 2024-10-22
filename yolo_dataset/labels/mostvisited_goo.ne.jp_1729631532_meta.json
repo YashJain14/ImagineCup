@@ -1,0 +1,34 @@
+{
+  "url": "https://goo.ne.jp",
+  "category": "mostvisited",
+  "timestamp": 1729631535,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 649.0,
+        "y1": 53.0,
+        "x2": 764.0,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "z\nz\nz",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: z\nz\nz",
+      "element": 

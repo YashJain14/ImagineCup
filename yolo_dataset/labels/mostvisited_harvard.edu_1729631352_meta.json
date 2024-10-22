@@ -1,0 +1,34 @@
+{
+  "url": "https://harvard.edu",
+  "category": "mostvisited",
+  "timestamp": 1729631354,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 21.0,
+        "x2": 230.0,
+        "y2": 69.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Harvard University",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Harvard University",
+      "element": 

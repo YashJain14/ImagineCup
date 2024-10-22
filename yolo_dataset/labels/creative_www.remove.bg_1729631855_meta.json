@@ -1,0 +1,34 @@
+{
+  "url": "https://www.remove.bg",
+  "category": "creative",
+  "timestamp": 1729631856,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 0,
+        "x2": 242.0,
+        "y2": 72.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "remove.bg",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: remove.bg",
+      "element": 

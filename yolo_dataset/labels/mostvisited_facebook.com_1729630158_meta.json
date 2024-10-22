@@ -1,0 +1,34 @@
+{
+  "url": "https://facebook.com",
+  "category": "mostvisited",
+  "timestamp": 1729630159,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1066.0,
+        "y1": 148.0,
+        "x2": 1430.0,
+        "y2": 200.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Email address or phone number",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Email address or phone number",
+        "value": "",
+        "name": "email"
+      },
+      "descriptive_label": "input: Email address or phone number",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://ft.com",
+  "category": "mostvisited",
+  "timestamp": 1729631393,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 370.0,
+        "y1": 100.0,
+        "x2": 474.015625,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "S&P 500\nMinus\n\u22120.05%",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: S&P 500\nMinus\n\u22120.05%",
+      "element": 

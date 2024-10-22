@@ -1,0 +1,10 @@
+{
+  "total_urls": 1,
+  "urls_per_category": {
+    "e_commerce": 0,
+    "social_media": 0,
+    "news_media": 1
+  },
+  "processed_domains": 45,
+  "failed_domains": 37
+}

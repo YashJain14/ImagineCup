@@ -1,0 +1,34 @@
+{
+  "url": "https://nypost.com",
+  "category": "mostvisited",
+  "timestamp": 1729630986,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 330.0,
+        "y1": 28.0,
+        "x2": 442.953125,
+        "y2": 58.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Primary Menu\nSECTIONS",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Primary Menu\nSECTIONS",
+      "element": 

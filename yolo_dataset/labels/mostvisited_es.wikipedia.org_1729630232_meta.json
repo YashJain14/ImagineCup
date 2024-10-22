@@ -1,0 +1,34 @@
+{
+  "url": "https://es.wikipedia.org",
+  "category": "mostvisited",
+  "timestamp": 1729630236,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 17.0,
+        "x2": 240.0,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Men\u00fa principal",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Men\u00fa principal",
+      "element": 

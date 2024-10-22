@@ -1,0 +1,34 @@
+{
+  "url": "https://mirror.co.uk",
+  "category": "mostvisited",
+  "timestamp": 1729630478,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 480.0,
+        "y1": 337.0,
+        "x2": 540.0,
+        "y2": 397.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button",
+      "element": 

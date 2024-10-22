@@ -1,0 +1,34 @@
+{
+  "url": "https://t.me",
+  "category": "mostvisited",
+  "timestamp": 1729630152,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1339.1875,
+        "y1": 0,
+        "x2": 1423.15625,
+        "y2": 48.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: EN",
+      "element": 

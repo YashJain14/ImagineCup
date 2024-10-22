@@ -1,0 +1,34 @@
+{
+  "url": "https://wa.me",
+  "category": "mostvisited",
+  "timestamp": 1729630292,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 38.265625,
+        "x2": 170.0,
+        "y2": 56.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://britannica.com",
+  "category": "mostvisited",
+  "timestamp": 1729631241,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 277.0,
+        "y1": 5.0,
+        "x2": 376.125,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Explore",
+      "element": 

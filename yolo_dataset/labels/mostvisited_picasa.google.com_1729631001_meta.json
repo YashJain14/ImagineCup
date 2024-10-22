@@ -1,0 +1,34 @@
+{
+  "url": "https://picasa.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729631001,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1085.0,
+        "y1": 605.0,
+        "x2": 1270.0,
+        "y2": 658.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Go to Google Photos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Go to Google Photos",
+      "element": 

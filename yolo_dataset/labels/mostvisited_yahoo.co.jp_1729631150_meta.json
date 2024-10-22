@@ -1,0 +1,34 @@
+{
+  "url": "https://yahoo.co.jp",
+  "category": "mostvisited",
+  "timestamp": 1729631152,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1218.0,
+        "y1": 4.0,
+        "x2": 1274.203125,
+        "y2": 15.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Yahoo! BB",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Yahoo! BB",
+      "element": 

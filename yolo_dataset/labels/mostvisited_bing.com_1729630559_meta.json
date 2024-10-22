@@ -1,0 +1,34 @@
+{
+  "url": "https://bing.com",
+  "category": "mostvisited",
+  "timestamp": 1729630563,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 11.680000305175781,
+        "y1": 20.079999923706055,
+        "x2": 190.32001495361328,
+        "y2": 47.91999816894531
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "svg",
+      "element_type": "img",
+      "accessibility": {
+        "aria_label": "Welcome to Bing Search",
+        "title": null,
+        "alt_text": null,
+        "role": "img"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon: Welcome to Bing Search",
+      "element": 

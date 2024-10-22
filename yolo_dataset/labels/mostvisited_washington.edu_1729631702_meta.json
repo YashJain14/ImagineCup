@@ -1,0 +1,34 @@
+{
+  "url": "https://washington.edu",
+  "category": "mostvisited",
+  "timestamp": 1729631704,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 515.0,
+        "y1": 0,
+        "x2": 1085.0,
+        "y2": 4.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "s"
+      },
+      "descriptive_label": "input: Search",
+      "element": 

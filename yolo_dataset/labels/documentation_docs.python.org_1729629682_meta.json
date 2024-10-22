@@ -1,0 +1,34 @@
+{
+  "url": "https://docs.python.org",
+  "category": "documentation",
+  "timestamp": 1729629683,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1858.609375,
+        "y1": 20.375,
+        "x2": 1894.0,
+        "y2": 37.375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "General Index",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "index",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: General Index",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://mail.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729630287,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 776.0,
+        "y1": 404.484375,
+        "x2": 1144.0,
+        "y2": 460.484375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Email or phone",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Email or phone",
+      "element": 

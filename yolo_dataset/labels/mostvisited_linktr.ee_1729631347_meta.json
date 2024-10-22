@@ -1,0 +1,34 @@
+{
+  "url": "https://linktr.ee",
+  "category": "mostvisited",
+  "timestamp": 1729631348,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 221.0,
+        "y1": 80.0625,
+        "x2": 387.0,
+        "y2": 103.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link",
+      "element": 

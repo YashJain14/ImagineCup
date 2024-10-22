@@ -1,0 +1,34 @@
+{
+  "url": "https://www.photopea.com",
+  "category": "creative",
+  "timestamp": 1729629929,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 281.671875,
+        "y1": 27.234375,
+        "x2": 321.578125,
+        "y2": 45.234375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Learn photo editing",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn photo editing",
+      "element": 

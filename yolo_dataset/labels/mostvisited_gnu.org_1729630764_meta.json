@@ -1,0 +1,34 @@
+{
+  "url": "https://gnu.org",
+  "category": "mostvisited",
+  "timestamp": 1729630765,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 396.59375,
+        "y1": 13.484375,
+        "x2": 567.75,
+        "y2": 29.484375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Free Software Supporter:",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Free Software Supporter:",
+      "element": 

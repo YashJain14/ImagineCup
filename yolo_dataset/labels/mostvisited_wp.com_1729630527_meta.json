@@ -1,0 +1,34 @@
+{
+  "url": "https://wp.com",
+  "category": "mostvisited",
+  "timestamp": 1729630528,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1920,
+        "y2": 941
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "body",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Products\nFeatures\nResources\nPlans & Pricing\nLog in\nGet started\nGET STARTED\nSign up\nLog in\nPlans & Pricing\nPRODUCTS\nWordPress Hosting\nWordPress for Agencies\nDomain Names\nWebsite Builder\nCreate a Blog\nNewsletter\nProfessional Email\nWebsite Design Services\nCommerce\nEnterprise WordPress  \nFEATURES\nOverview\nWordPress Themes\nWordPress Plugins\nWordPress Patterns\nGoogle Apps\nRESOURCES\nWordPress.com Support\nWordPress News\nWebsite Building Tips\nBusiness Name Generator\nLogo Maker\nDiscover New Posts\nPopular Tags\nBlog Search\nDaily Webinars\nLearn WordPress\nManaged WordPress Hosting\nMeet the WordPress Website Builder You\u2019ve Been Looking For\nEverything you need to build and grow any website\u2014all in one place.\nGet started\nTRUSTED BY 160 MILLION WORLDWIDE\nHost with the best\nWhen you create a site with WordPress.com, you get all of the power of lightning-fast, secure managed WordPress hosting.\nExplore hosting\nRoom to grow\nScale as you go with unmetered bandwidth on all plans. Zero downtime. No limits.\nSeriously secure\nFirewalls, encryption, brute force, and DDoS protection. Security\u2019s all taken care of.\nBring it with you\nFast data transfer and performance come as standard with our global CDN\u2014wherever your site visitors are.\nFlexible storage\nYou\u2019ll never run out of storage with WordPress.com\u2019s plans. Photos. Audio. 4K videos. All in one place.\nClaim your home on the web\nGrab the perfect domain\u2014with or without a website\u2014for an unbeatable price. The popular .com, .org, and .net extensions start at just S$18 per year. Easy to remember, easy to share, and sure to stand out.\nFind your domain\nDrag, drop, set it apart\nSeamlessly define a one-of-a-kind design with a range of beautiful themes and patterns.\nExplore themes\nWordPress to the <Core>\nAt WordPress.com we\u2019re committed to the open web. With the help of our customers, we devote 5% of our time to pushing forward the free, open source WordPress code and community.\nStart creating\nThink WordPress isn\u2019t for the enterprise? Think again.\nWhat do Salesforce, Al Jazeera, Capgemini, and Facebook have in common?\nThey trust WordPress VIP\u2014the enterprise platform built on WordPress\u2014to deliver performance at scale while meeting the highest security standards. Starting at $25,000/year.\nGet a demo\nWordPress.com\nProducts\nWordPress Hosting\nWordPress for Agencies\nDomain Names\nWebsite Builder\nCreate a Blog\nProfessional Email\nP2: WordPress for Teams\nWebsite Design Services\nEnterprise WordPress\nFeatures\nOverview\nWordPress Themes\nWordPress Plugins\nWordPress Patterns\nGoogle Apps\nResources\nWordPress.com Support\nWordPress Forums\nWordPress News\nWebsite Building Tips\nBusiness Name Generator\nLogo Maker\nDiscover New Posts\nPopular Tags\nBlog Search\nDaily Webinars\nLearn WordPress\nDeveloper Resources\nCompany\nAbout\nPartners\nPress\nTerms of Service\nPrivacy Policy\nEspa\u00f1ol\nPortugu\u00eas do Brasil\nDeutsch\nFran\u00e7ais\n\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\n\u65e5\u672c\u8a9e\nItaliano\nNederlands\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nT\u00fcrk\u00e7e\nBahasa Indonesia\n\u7b80\u4f53\u4e2d\u6587\n\u7e41\u9ad4\u4e2d\u6587\n\ud55c\uad6d\uc5b4\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nEnglish\nSvenska\nEspa\u00f1ol\nPortugu\u00eas do Brasil\nDeutsch\nFran\u00e7ais\n\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\n\u65e5\u672c\u8a9e\nItaliano\nNederlands\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nT\u00fcrk\u00e7e\nBahasa Indonesia\n\u7b80\u4f53\u4e2d\u6587\n\u7e41\u9ad4\u4e2d\u6587\n\ud55c\uad6d\uc5b4\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\nEnglish\nSvenska\nMobile Apps\nDownload on the\nApp Store\nGet it on\nGoogle Play\nSocial Media\nWordPress.com on Facebook\nWordPress.com on X (Twitter)\nWordPress.com on Instagram\nWordPress.com on YouTube\nAutomattic\nAn\nAutomattic\njoint\nWork With Us",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Products\nFeatures\nResources...",
+      "element": 

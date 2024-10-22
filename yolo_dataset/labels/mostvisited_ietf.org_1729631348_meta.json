@@ -1,0 +1,34 @@
+{
+  "url": "https://ietf.org",
+  "category": "mostvisited",
+  "timestamp": 1729631349,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 5.0,
+        "x2": 459.5,
+        "y2": 80.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link",
+      "element": 

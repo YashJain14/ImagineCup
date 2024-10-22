@@ -1,0 +1,34 @@
+{
+  "url": "https://jhu.edu",
+  "category": "mostvisited",
+  "timestamp": 1729631710,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 42.0,
+        "y1": 857.0,
+        "x2": 105.0,
+        "y2": 899.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PAUSE BACKGROUND VIDEO",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: PAUSE BACKGROUND VIDEO",
+      "element": 

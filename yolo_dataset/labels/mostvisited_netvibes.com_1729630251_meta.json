@@ -1,0 +1,34 @@
+{
+  "url": "https://netvibes.com",
+  "category": "mostvisited",
+  "timestamp": 1729630251,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 745.0,
+        "y1": 333.90625,
+        "x2": 1175.0,
+        "y2": 379.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "cookies policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: cookies policy",
+      "element": 

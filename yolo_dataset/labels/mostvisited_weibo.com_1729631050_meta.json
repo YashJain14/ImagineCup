@@ -1,0 +1,34 @@
+{
+  "url": "https://weibo.com",
+  "category": "mostvisited",
+  "timestamp": 1729631052,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 663.0,
+        "y1": 186.0,
+        "x2": 1215.0,
+        "y2": 232.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "\u641c\u7d22\u5fae\u535a",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: \u641c\u7d22\u5fae\u535a",
+      "element": 

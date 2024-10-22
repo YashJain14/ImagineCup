@@ -1,0 +1,34 @@
+{
+  "url": "https://nydailynews.com",
+  "category": "mostvisited",
+  "timestamp": 1729631023,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 48.0,
+        "y1": 0,
+        "x2": 187.921875,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Open menu of all sections",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "All Sections",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Open menu of all sections",
+      "element": 

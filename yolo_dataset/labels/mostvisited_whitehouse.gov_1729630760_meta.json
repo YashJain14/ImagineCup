@@ -1,0 +1,34 @@
+{
+  "url": "https://whitehouse.gov",
+  "category": "mostvisited",
+  "timestamp": 1729630761,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1920,
+        "y2": 43.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Live Now: President Biden Delivers Remarks on Lowering the Cost of Prescription Drugs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Live Now: President Biden D...",
+      "element": 

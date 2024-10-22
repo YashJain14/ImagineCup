@@ -1,0 +1,34 @@
+{
+  "url": "https://www.wayfair.com",
+  "category": "e_commerce",
+  "timestamp": 1729629602,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 910.375,
+        "y1": 583.5625,
+        "x2": 1009.625,
+        "y2": 597.5625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Feedback form",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Having a problem?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Feedback form",
+      "element": 

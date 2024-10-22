@@ -1,0 +1,34 @@
+{
+  "url": "https://bitbucket.org",
+  "category": "development",
+  "timestamp": 1729629640,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 376.0,
+        "y1": 7.5,
+        "x2": 571.171875,
+        "y2": 67.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link",
+      "element": 

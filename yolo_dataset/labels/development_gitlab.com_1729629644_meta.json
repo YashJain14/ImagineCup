@@ -1,0 +1,34 @@
+{
+  "url": "https://gitlab.com",
+  "category": "development",
+  "timestamp": 1729629647,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 72.0,
+        "x2": 72.0,
+        "y2": 120.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": "Home"
+      },
+      "descriptive_label": "button: Home",
+      "element": 

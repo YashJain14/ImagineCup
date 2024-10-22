@@ -1,0 +1,34 @@
+{
+  "url": "https://nginx.org",
+  "category": "mostvisited",
+  "timestamp": 1729630618,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 735.40625,
+        "y1": 4.796875,
+        "x2": 796.78125,
+        "y2": 22.796875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "20 years",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 20 years",
+      "element": 

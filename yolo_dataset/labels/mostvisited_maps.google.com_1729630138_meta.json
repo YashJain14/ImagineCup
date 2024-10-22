@@ -1,0 +1,34 @@
+{
+  "url": "https://maps.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729630140,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 112.0,
+        "y1": 23.0,
+        "x2": 358.0,
+        "y2": 49.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search Google Maps",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search Google Maps",
+      "element": 

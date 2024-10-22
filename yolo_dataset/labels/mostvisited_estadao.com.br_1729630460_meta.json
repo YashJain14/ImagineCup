@@ -1,0 +1,34 @@
+{
+  "url": "https://estadao.com.br",
+  "category": "mostvisited",
+  "timestamp": 1729630461,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 317.0,
+        "y1": 0,
+        "x2": 365.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Mostrar menu",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Mostrar menu",
+      "element": 

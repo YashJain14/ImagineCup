@@ -1,0 +1,34 @@
+{
+  "url": "https://amazon.es",
+  "category": "mostvisited",
+  "timestamp": 1729631359,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 825.203125,
+        "y1": 601.0,
+        "x2": 955.9375,
+        "y2": 617.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Servicios de Amazon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Servicios de Amazon",
+      "element": 

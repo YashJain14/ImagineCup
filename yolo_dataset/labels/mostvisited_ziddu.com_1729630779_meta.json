@@ -1,0 +1,34 @@
+{
+  "url": "https://ziddu.com",
+  "category": "mostvisited",
+  "timestamp": 1729630781,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 30.0,
+        "y1": 0,
+        "x2": 127.859375,
+        "y2": 36.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact Us",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Contact Us",
+      "element": 

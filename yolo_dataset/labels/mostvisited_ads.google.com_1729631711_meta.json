@@ -1,0 +1,34 @@
+{
+  "url": "https://ads.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729631712,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 8.0,
+        "y1": 8.0,
+        "x2": 142.953125,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Google Ads",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Ads",
+      "element": 

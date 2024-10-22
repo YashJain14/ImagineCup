@@ -1,0 +1,34 @@
+{
+  "url": "https://zendesk.com",
+  "category": "mostvisited",
+  "timestamp": 1729630657,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1094.359375,
+        "y1": 17.0,
+        "x2": 1239.796875,
+        "y2": 42.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Watch on-demand",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Watch on-demand",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://narod.ru",
+  "category": "mostvisited",
+  "timestamp": 1729631544,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 425.0,
+        "y1": 23.0,
+        "x2": 540.453125,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NAROD\u2022RU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: NAROD\u2022RU",
+      "element": 

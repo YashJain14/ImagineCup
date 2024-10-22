@@ -1,0 +1,34 @@
+{
+  "url": "https://www.bestbuy.com",
+  "category": "e_commerce",
+  "timestamp": 1729629621,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1068.265625,
+        "y1": 8.0,
+        "x2": 1108.546875,
+        "y2": 21.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: English",
+      "element": 

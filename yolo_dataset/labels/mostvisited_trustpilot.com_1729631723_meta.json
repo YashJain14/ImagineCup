@@ -1,0 +1,34 @@
+{
+  "url": "https://trustpilot.com",
+  "category": "mostvisited",
+  "timestamp": 1729631724,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 360.0,
+        "y1": 17.5,
+        "x2": 500.0,
+        "y2": 54.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": "company-logo"
+      },
+      "descriptive_label": "link: company-logo",
+      "element": 

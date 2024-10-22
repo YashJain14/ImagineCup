@@ -1,0 +1,34 @@
+{
+  "url": "https://namecheap.com",
+  "category": "mostvisited",
+  "timestamp": 1729630473,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 256.0,
+        "y1": 0,
+        "x2": 375.171875,
+        "y2": 34.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CONTACT US",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: CONTACT US",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.office.com/launch/powerpoint?auth=1",
+  "category": "microsoft_office",
+  "timestamp": 1729629725,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 784.0,
+        "y1": 382.0,
+        "x2": 1136.0,
+        "y2": 418.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "Enter your email, phone, or Skype.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Email, phone, or Skype",
+        "value": "",
+        "name": "loginfmt"
+      },
+      "descriptive_label": "input: Enter your email, phone, or...",
+      "element": 

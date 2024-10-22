@@ -1,0 +1,34 @@
+{
+  "url": "https://biglobe.ne.jp",
+  "category": "mostvisited",
+  "timestamp": 1729631338,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 438.0,
+        "y1": 0,
+        "x2": 1482.0,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "20241021_WiMAX",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "20241021_WiMAX",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 20241021_WiMAX",
+      "element": 

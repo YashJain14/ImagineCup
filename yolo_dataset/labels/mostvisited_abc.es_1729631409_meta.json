@@ -1,0 +1,34 @@
+{
+  "url": "https://abc.es",
+  "category": "mostvisited",
+  "timestamp": 1729631414,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 413.0,
+        "y1": 412.40625,
+        "x2": 471.296875,
+        "y2": 431.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Volver",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Volver",
+      "element": 

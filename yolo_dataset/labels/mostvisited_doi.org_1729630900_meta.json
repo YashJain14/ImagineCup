@@ -1,0 +1,34 @@
+{
+  "url": "https://doi.org",
+  "category": "mostvisited",
+  "timestamp": 1729630901,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1014.96875,
+        "y1": 10.0,
+        "x2": 1111.0625,
+        "y2": 33.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn more",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://fandom.com",
+  "category": "mostvisited",
+  "timestamp": 1729630547,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 9.0,
+        "x2": 66.0,
+        "y2": 72.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Fandom homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": ".cls-1{fill:#cb0054;}.cls-2{fill:#fa005a;}.cls-3{fill:#9b004e;}.cls-4{fill:#ffc500;} FANDOM",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Fandom homepage",
+      "element": 

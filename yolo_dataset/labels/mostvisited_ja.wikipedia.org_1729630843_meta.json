@@ -1,0 +1,34 @@
+{
+  "url": "https://ja.wikipedia.org",
+  "category": "mostvisited",
+  "timestamp": 1729630848,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 17.0,
+        "x2": 240.0,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+      "element": 

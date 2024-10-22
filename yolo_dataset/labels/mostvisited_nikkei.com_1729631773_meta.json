@@ -1,0 +1,34 @@
+{
+  "url": "https://nikkei.com",
+  "category": "mostvisited",
+  "timestamp": 1729631774,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 304.0,
+        "y1": 18.0,
+        "x2": 344.0,
+        "y2": 58.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "\u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+        "title": "\u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+      "element": 

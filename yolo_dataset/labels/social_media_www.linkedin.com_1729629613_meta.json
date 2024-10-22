@@ -1,0 +1,34 @@
+{
+  "url": "https://www.linkedin.com",
+  "category": "social_media",
+  "timestamp": 1729629614,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 396.0,
+        "y1": 12.0,
+        "x2": 498.0,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LinkedIn",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: LinkedIn",
+      "element": 

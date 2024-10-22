@@ -1,0 +1,34 @@
+{
+  "url": "https://metro.co.uk",
+  "category": "mostvisited",
+  "timestamp": 1729631732,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 478.0,
+        "y1": 5.0,
+        "x2": 960.0,
+        "y2": 126.46875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Metro",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Metro",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://techradar.com",
+  "category": "mostvisited",
+  "timestamp": 1729631696,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 44.796875,
+        "y1": 0,
+        "x2": 508.4375,
+        "y2": 100.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TechRadar\nthe technology experts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home",
+      "element": 

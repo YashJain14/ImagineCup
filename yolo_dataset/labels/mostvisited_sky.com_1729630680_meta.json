@@ -1,0 +1,34 @@
+{
+  "url": "https://sky.com",
+  "category": "mostvisited",
+  "timestamp": 1729630683,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 159.0,
+        "y1": 2.0,
+        "x2": 160.0,
+        "y2": 3.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "skip to search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: skip to search",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://com.com",
+  "category": "mostvisited",
+  "timestamp": 1729631532,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 863.09375,
+        "x2": 1920,
+        "y2": 907.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Why am I Here? Legal Information Terms of Use Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Why am I Here? Legal Inform...",
+      "element": 

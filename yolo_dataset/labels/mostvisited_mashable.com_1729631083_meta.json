@@ -1,0 +1,34 @@
+{
+  "url": "https://mashable.com",
+  "category": "mostvisited",
+  "timestamp": 1729631083,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 16.796875,
+        "x2": 523.0,
+        "y2": 36.796875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": ".animate #euSMf1FbiNs11_to{animation:euSMf1FbiNs11_to__to 1s linear 1 normal forwards} .animate-reverse #euSMf1FbiNs11_to{animation:euSMf1FbiNs11_to__back 1s linear 1 normal forwards} @keyframes euSMf1FbiNs11_to__to{ 0%{transform:translate(2326.395841px,218.229656px)} 45%{transform:translate(2326.395841px,218.229656px)} 73%{transform:translate(662.384075px,215.434656px)} 100%{transform:translate(662.384075px,215.434656px)} } @keyframes euSMf1FbiNs11_to__back{ 0%{transform:translate(662.384075px,215.434656px)} 45%{transform:translate(662.384075px,215.434656px)} 73%{transform:translate(2326.395841px,218.229656px)} 100%{transform:translate(2326.395841px,218.229656px)} } .animate #euSMf1FbiNs15_to{animation:euSMf1FbiNs15_to__to 1s linear 1 normal forwards} .animate-reverse #euSMf1FbiNs15_to{animation:euSMf1FbiNs15_to__back 1s linear 1 normal forwards} @keyframes euSMf1FbiNs15_to__to{ 0%{transform:translate(144.277373px,1260.854733px)} 41%{transform:translate(144.277373px,331.868153px)} 100%{transform:translate(144.277373px,331.868153px)} } @keyframes euSMf1FbiNs15_to__back{ 0%{transform:translate(144.277373px,331.868153px)} 41%{transform:translate(144.277373px,331.868153px)} 100%{transform:translate(144.277373px,1260.854733px)} } .animate #euSMf1FbiNs19_to{animation:euSMf1FbiNs19_to__to 1s linear 1 normal forwards} .animate-reverse #euSMf1FbiNs19_to{animation:euSMf1FbiNs19_to__back 1s linear 1 normal forwards} @keyframes euSMf1FbiNs19_to__to{ 0%{transform:translate(144.277373px,1003.724046px)} 60%{transform:translate(144.277373px,1003.724046px)} 80%{transform:translate(145.277373px,766.938989px)} 100%{transform:translate(145.277373px,766.938989px)} } @keyframes euSMf1FbiNs19_to__back{ 0%{transform:translate(145.277373px,766.938989px)} 60%{transform:translate(145.277373px,766.938989px)} 80%{transform:translate(144.277373px,1003.724046px)} 100%{transform:translate(144.277373px,1003.724046px)} } .animate #euSMf1FbiNs22_to{animation:euSMf1FbiNs22_to__to 1s linear 1 normal forwards} .animate-reverse #euSMf1FbiNs22_to{animation:euSMf1FbiNs22_to__back 1s linear 1 normal forwards} @keyframes euSMf1FbiNs22_to__to{ 0%{transform:translate(7250.895347px,1202.286993px)} 60%{transform:translate(7250.895347px,1202.286993px)} 90%{transform:translate(13.364022px,1202.280706px)} 100%{transform:translate(13.364022px,1202.280706px)} } @keyframes euSMf1FbiNs22_to__back{ 0%{transform:translate(13.364022px,1202.286993px)} 60%{transform:translate(13.364022px,1202.286993px)} 90%{transform:translate(7250.895347px,1202.280706px)} 100%{transform:translate(7250.895347px,1202.280706px)} } .animate #logoanim { animation:logoanim_to_to 1s linear 1 normal forwards } .animate-reverse #logoanim{ animation:logoanim_to_back 1s linear 1 normal forwards } @keyframes logoanim_to_back{ 0%{ transform:translate(500px, 90px) scale(0.75); } 60%{ transform:translate(1800.55203400000028px, 90px) scale(0.75); } 90%{ transform:translate(1800.55203400000028px, 90px) scale(0.75); } 100%{ transform:translate(1800.55203400000028px, 90px) scale(0.75); } } @keyframes logoanim_to_to{ 0%{ transform:translate(1800.55203400000028px, 90px) scale(0.75); } 60%{ transform:translate(1800.55203400000028px, 90px) scale(0.75); } 90%{ transform:translate(1100.364022px, 90px) scale(0.75); } 100%{ transform:translate(500px, 90px) scale(0.75); } }",
+        "placeholder": null,
+        "value": null,
+        "name": "top"
+      },
+      "descriptive_label": "link: .animate #euSMf1FbiNs11_to{...",
+      "element": 

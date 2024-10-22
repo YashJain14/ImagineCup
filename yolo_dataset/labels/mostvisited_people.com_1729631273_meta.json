@@ -1,0 +1,34 @@
+{
+  "url": "https://people.com",
+  "category": "mostvisited",
+  "timestamp": 1729631274,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 350.0,
+        "y1": 32.0,
+        "x2": 470.0,
+        "y2": 80.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Visit PEOPLE's homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PEOPLE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Visit PEOPLE's homepage",
+      "element": 

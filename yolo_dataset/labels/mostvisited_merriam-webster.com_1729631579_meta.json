@@ -1,0 +1,34 @@
+{
+  "url": "https://merriam-webster.com",
+  "category": "mostvisited",
+  "timestamp": 1729631581,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 486.453125,
+        "y1": 31.0,
+        "x2": 631.3125,
+        "y2": 70.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Games & Quizzes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Games & Quizzes",
+      "element": 

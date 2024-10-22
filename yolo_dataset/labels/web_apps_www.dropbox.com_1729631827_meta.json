@@ -1,0 +1,34 @@
+{
+  "url": "https://www.dropbox.com",
+  "category": "web_apps",
+  "timestamp": 1729631830,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 24.0,
+        "x2": 193.0,
+        "y2": 68.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Dropbox",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Dropbox",
+      "element": 

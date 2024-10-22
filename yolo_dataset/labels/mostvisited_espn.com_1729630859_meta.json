@@ -1,0 +1,34 @@
+{
+  "url": "https://espn.com",
+  "category": "mostvisited",
+  "timestamp": 1729630861,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1920,
+        "y2": 65.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "section",
+      "element_type": "region",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "region"
+      },
+      "content": {
+        "text": "TOP EVENTS\n>\nUCL\nFT\nMON\n5\nRSB\n1\nFT\nMIL\n3\nBRU\n1\nFT\nGIR\n2\nSLB\n0\nFT\nARS\n1\nSHK\n0\nFT\nJUV\n0\nVFB\n1\nFT\nAVL\n2\nBOL\n0\nFT\nSTG\n0\nSCP\n2\nFT\nRMA\n5\nDOR\n2\nFT\nPSG\n1\nPSV\n1\nMLS\n7:30 AM",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: TOP EVENTS\n>\nUCL\nFT\nMON\n5\nR...",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://shutterstock.com",
+  "category": "mostvisited",
+  "timestamp": 1729630497,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1173.671875,
+        "y1": 10.0,
+        "x2": 1266.609375,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buy now",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Buy now",
+      "element": 

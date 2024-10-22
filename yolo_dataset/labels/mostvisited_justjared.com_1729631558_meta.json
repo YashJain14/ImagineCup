@@ -1,0 +1,34 @@
+{
+  "url": "https://justjared.com",
+  "category": "mostvisited",
+  "timestamp": 1729631559,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1866.0,
+        "y1": 564.59375,
+        "x2": 1910.0,
+        "y2": 608.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accessibility",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Accessibility",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://scribd.com",
+  "category": "mostvisited",
+  "timestamp": 1729630439,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1864.0,
+        "y1": 764.0,
+        "x2": 1912.0,
+        "y2": 812.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button",
+      "element": 

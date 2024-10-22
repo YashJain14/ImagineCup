@@ -1,0 +1,34 @@
+{
+  "url": "https://gsmarena.com",
+  "category": "mostvisited",
+  "timestamp": 1729631650,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 440.5,
+        "y1": 282.0,
+        "x2": 473.5,
+        "y2": 329.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Toggle Navigation",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle Navigation",
+      "element": 

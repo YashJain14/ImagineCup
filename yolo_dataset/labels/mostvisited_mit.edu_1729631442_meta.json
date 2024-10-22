@@ -1,0 +1,34 @@
+{
+  "url": "https://mit.edu",
+  "category": "mostvisited",
+  "timestamp": 1729631444,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 20.0,
+        "x2": 243.0,
+        "y2": 66.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Massachusetts Institute of Technology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Massachusetts Institute of ...",
+      "element": 

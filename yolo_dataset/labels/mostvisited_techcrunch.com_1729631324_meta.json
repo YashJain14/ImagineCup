@@ -1,0 +1,34 @@
+{
+  "url": "https://techcrunch.com",
+  "category": "mostvisited",
+  "timestamp": 1729631326,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 708.0,
+        "y1": 290.0,
+        "x2": 1212.0,
+        "y2": 344.109375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TechCrunch Desktop Large Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TechCrunch Desktop Large Logo",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://thefreedictionary.com",
+  "category": "mostvisited",
+  "timestamp": 1729631714,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 451.0,
+        "y1": 37.0,
+        "x2": 682.0,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Dictionary, Encyclopedia and Thesaurus - The Free Dictionary",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Dictionary, Encyclopedia an...",
+      "element": 

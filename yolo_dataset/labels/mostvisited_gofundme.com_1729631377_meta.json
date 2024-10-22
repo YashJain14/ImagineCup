@@ -1,0 +1,34 @@
+{
+  "url": "https://gofundme.com",
+  "category": "mostvisited",
+  "timestamp": 1729631379,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 951.0,
+        "y1": 8.0,
+        "x2": 969.0,
+        "y2": 18.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Skip to content",
+      "element": 

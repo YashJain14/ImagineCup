@@ -1,0 +1,34 @@
+{
+  "url": "https://quora.com",
+  "category": "mostvisited",
+  "timestamp": 1729631114,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 684.328125,
+        "y1": 389.5,
+        "x2": 786.09375,
+        "y2": 405.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms of Service",
+      "element": 

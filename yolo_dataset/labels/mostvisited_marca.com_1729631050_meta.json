@@ -1,0 +1,34 @@
+{
+  "url": "https://marca.com",
+  "category": "mostvisited",
+  "timestamp": 1729631053,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1190.46875,
+        "y1": 79.046875,
+        "x2": 1228.0,
+        "y2": 127.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Login",
+      "element": 

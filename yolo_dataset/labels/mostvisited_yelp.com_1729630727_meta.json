@@ -1,0 +1,34 @@
+{
+  "url": "https://yelp.com",
+  "category": "mostvisited",
+  "timestamp": 1729630729,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 28.0,
+        "x2": 120.0,
+        "y2": 68.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Yelp",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Yelp",
+      "element": 

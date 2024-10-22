@@ -1,0 +1,34 @@
+{
+  "url": "https://instagram.com",
+  "category": "mostvisited",
+  "timestamp": 1729630537,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1078.65625,
+        "y1": 161.0,
+        "x2": 1253.65625,
+        "y2": 216.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button",
+      "element": 

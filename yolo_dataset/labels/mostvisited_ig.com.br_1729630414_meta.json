@@ -1,0 +1,34 @@
+{
+  "url": "https://ig.com.br",
+  "category": "mostvisited",
+  "timestamp": 1729630415,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 391.28125,
+        "y1": 11.0,
+        "x2": 476.71875,
+        "y2": 23.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Anuncie no iG",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ANUNCIE NO IG",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Anuncie no iG",
+      "element": 

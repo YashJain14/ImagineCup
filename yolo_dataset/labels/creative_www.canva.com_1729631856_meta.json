@@ -1,0 +1,34 @@
+{
+  "url": "https://www.canva.com",
+  "category": "creative",
+  "timestamp": 1729631856,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1046.3125,
+        "y1": 562.953125,
+        "x2": 1180.875,
+        "y2": 581.953125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "problem with Canva",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: problem with Canva",
+      "element": 

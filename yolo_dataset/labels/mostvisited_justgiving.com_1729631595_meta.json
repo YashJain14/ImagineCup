@@ -1,0 +1,34 @@
+{
+  "url": "https://justgiving.com",
+  "category": "mostvisited",
+  "timestamp": 1729631596,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 858.015625,
+        "y1": 543.5,
+        "x2": 955.390625,
+        "y2": 562.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "cookie policy.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: cookie policy.",
+      "element": 

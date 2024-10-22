@@ -1,0 +1,34 @@
+{
+  "url": "https://timeweb.ru",
+  "category": "mostvisited",
+  "timestamp": 1729631369,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1066.78125,
+        "y1": 900.0,
+        "x2": 1101.140625,
+        "y2": 918.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u043a\u0443\u043a\u0438",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u043a\u0443\u043a\u0438",
+      "element": 

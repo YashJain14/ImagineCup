@@ -1,0 +1,34 @@
+{
+  "url": "https://indiatimes.com",
+  "category": "mostvisited",
+  "timestamp": 1729630335,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 410.0,
+        "y1": 118.5,
+        "x2": 450.0,
+        "y2": 161.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Indiatimes Logo",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Indiatimes Logo",
+      "element": 

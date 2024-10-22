@@ -1,0 +1,34 @@
+{
+  "url": "https://justice.gov",
+  "category": "mostvisited",
+  "timestamp": 1729631642,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 870.640625,
+        "y1": 4.0,
+        "x2": 986.765625,
+        "y2": 18.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Here's how you know",
+      "element": 

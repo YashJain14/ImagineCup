@@ -1,0 +1,34 @@
+{
+  "url": "https://salesforce.com",
+  "category": "mostvisited",
+  "timestamp": 1729631679,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1141.421875,
+        "y1": 106.0,
+        "x2": 1295.671875,
+        "y2": 130.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Discover Agetnforce and its business benefits.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Discover Agentforce",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Discover Agetnforce and its...",
+      "element": 

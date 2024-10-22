@@ -1,0 +1,34 @@
+{
+  "url": "https://apnews.com",
+  "category": "mostvisited",
+  "timestamp": 1729631696,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 755.0,
+        "x2": 68.0,
+        "y2": 803.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Enable accessibility",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Enable accessibility",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Enable accessibility",
+      "element": 

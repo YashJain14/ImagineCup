@@ -1,0 +1,34 @@
+{
+  "url": "https://fifa.com",
+  "category": "mostvisited",
+  "timestamp": 1729631661,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1416.90625,
+        "y1": 6.5,
+        "x2": 1552.484375,
+        "y2": 23.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TICKETS & HOSPITALITY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TICKETS & HOSPITALITY",
+      "element": 

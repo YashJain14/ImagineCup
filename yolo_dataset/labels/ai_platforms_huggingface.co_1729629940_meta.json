@@ -1,0 +1,34 @@
+{
+  "url": "https://huggingface.co",
+  "category": "ai_platforms",
+  "timestamp": 1729629942,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 18.0,
+        "x2": 349.53125,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hugging Face",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hugging Face",
+      "element": 

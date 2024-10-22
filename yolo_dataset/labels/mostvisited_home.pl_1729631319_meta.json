@@ -1,0 +1,34 @@
+{
+  "url": "https://home.pl",
+  "category": "mostvisited",
+  "timestamp": 1729631321,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 320.0,
+        "y1": 8.0,
+        "x2": 1600.0,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wi\u0119cej informacji",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Panel Klienta home.pl mo\u017ce obecnie dzia\u0142a\u0107 wolniej. Je\u015bli Twoja us\u0142uga uruchamia si\u0119 d\u0142u\u017cej ni\u017c zwykle, prosimy o cierpliwo\u015b\u0107. Wi\u0119cej informacji >>",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wi\u0119cej informacji",
+      "element": 

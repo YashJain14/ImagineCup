@@ -1,0 +1,34 @@
+{
+  "url": "https://codesandbox.io",
+  "category": "dev_tools",
+  "timestamp": 1729631837,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 392.0,
+        "y1": 0,
+        "x2": 416.0,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "CodeSandbox",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: CodeSandbox",
+      "element": 

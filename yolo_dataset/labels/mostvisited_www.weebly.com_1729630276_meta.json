@@ -1,0 +1,34 @@
+{
+  "url": "https://www.weebly.com",
+  "category": "mostvisited",
+  "timestamp": 1729630278,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 408.0,
+        "y1": 28.0,
+        "x2": 478.171875,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Websites",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Websites",
+      "element": 

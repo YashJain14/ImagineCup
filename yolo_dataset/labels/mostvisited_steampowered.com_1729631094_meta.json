@@ -1,0 +1,34 @@
+{
+  "url": "https://steampowered.com",
+  "category": "mostvisited",
+  "timestamp": 1729631096,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 483.0,
+        "y1": 60.0,
+        "x2": 659.0,
+        "y2": 77.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Link to the Steam Homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Link to the Steam Homepage",
+      "element": 

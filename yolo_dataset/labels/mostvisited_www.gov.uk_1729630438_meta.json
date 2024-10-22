@@ -1,0 +1,34 @@
+{
+  "url": "https://www.gov.uk",
+  "category": "mostvisited",
+  "timestamp": 1729630438,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 480.0,
+        "y1": 255.0,
+        "x2": 1455.0,
+        "y2": 310.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept additional cookies\nReject additional cookies\nView cookies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Accept additional cookies\nR...",
+      "element": 

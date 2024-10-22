@@ -1,0 +1,34 @@
+{
+  "url": "https://nginx.com",
+  "category": "mostvisited",
+  "timestamp": 1729630719,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 972.046875,
+        "y1": 0,
+        "x2": 1108.03125,
+        "y2": 37.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: English",
+      "element": 

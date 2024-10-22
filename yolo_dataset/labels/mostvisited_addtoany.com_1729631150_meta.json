@@ -1,0 +1,34 @@
+{
+  "url": "https://addtoany.com",
+  "category": "mostvisited",
+  "timestamp": 1729631151,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1027.046875,
+        "y1": 0,
+        "x2": 1110.5625,
+        "y2": 70.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Get the share buttons",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Get the share buttons",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://wikimedia.org",
+  "category": "mostvisited",
+  "timestamp": 1729630212,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 492.03125,
+        "y1": 38.5,
+        "x2": 588.65625,
+        "y2": 62.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "movement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: movement",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://cpanel.net",
+  "category": "mostvisited",
+  "timestamp": 1729630293,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1042.0,
+        "y1": 871.5625,
+        "x2": 1151.0,
+        "y2": 893.5625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Allow selection",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Allow selection",
+      "element": 

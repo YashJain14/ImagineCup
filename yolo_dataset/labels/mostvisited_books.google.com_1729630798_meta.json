@@ -1,0 +1,34 @@
+{
+  "url": "https://books.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729630799,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1775.65625,
+        "y1": 15.0,
+        "x2": 1805.65625,
+        "y2": 45.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Google apps",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Google apps",
+      "element": 

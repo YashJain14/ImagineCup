@@ -1,0 +1,34 @@
+{
+  "url": "https://www.todoist.com",
+  "category": "productivity",
+  "timestamp": 1729629630,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 304.0,
+        "y1": 18.984375,
+        "x2": 432.0,
+        "y2": 52.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Todoist Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.vertex42.com/",
+  "category": "office_resources",
+  "timestamp": 1729629886,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 415.0,
+        "y1": 34.0,
+        "x2": 635.0,
+        "y2": 51.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home: Vertex42 Excel Templates, Calculators, and Calendars",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Vertex42 Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home: Vertex42 Excel Templa...",
+      "element": 

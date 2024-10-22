@@ -1,0 +1,34 @@
+{
+  "url": "https://news.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729630277,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 22.0,
+        "x2": 151.484375,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Google News",
+        "title": "Google News",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google News",
+      "element": 

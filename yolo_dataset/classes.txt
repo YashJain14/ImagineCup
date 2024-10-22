@@ -12,3 +12,5 @@ toggle
 menu_item
 clickable
 icon
+image
+text

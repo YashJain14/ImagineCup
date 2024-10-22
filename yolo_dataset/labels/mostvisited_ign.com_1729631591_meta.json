@@ -1,0 +1,34 @@
+{
+  "url": "https://ign.com",
+  "category": "mostvisited",
+  "timestamp": 1729631592,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 288.0,
+        "y1": 36.0,
+        "x2": 312.0,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sidebar",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle Sidebar",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://boston.com",
+  "category": "mostvisited",
+  "timestamp": 1729631665,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 315.0,
+        "y1": 102.796875,
+        "x2": 395.953125,
+        "y2": 142.890625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle Panel menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OPEN\nCLOSE\nMENU",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle Panel menu",
+      "element": 

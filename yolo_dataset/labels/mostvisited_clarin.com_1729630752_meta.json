@@ -1,0 +1,34 @@
+{
+  "url": "https://clarin.com",
+  "category": "mostvisited",
+  "timestamp": 1729630754,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 377.328125,
+        "y1": 216.5,
+        "x2": 432.765625,
+        "y2": 228.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "D\u00f3lar blue",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: D\u00f3lar blue",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://edu.gcfglobal.org/en/topics/office/",
+  "category": "office_learning",
+  "timestamp": 1729629840,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 290.078125,
+        "y2": 100.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "GCFGlobal homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: GCFGlobal homepage",
+      "element": 

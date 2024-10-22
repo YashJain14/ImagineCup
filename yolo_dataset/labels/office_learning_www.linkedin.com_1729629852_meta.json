@@ -1,0 +1,34 @@
+{
+  "url": "https://www.linkedin.com/learning/topics/google-workspace",
+  "category": "office_learning",
+  "timestamp": 1729629853,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 396.0,
+        "y1": 12.0,
+        "x2": 540.796875,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LEARNING\nLinkedIn Learning",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: LEARNING\nLinkedIn Learning",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://news.com.au",
+  "category": "mostvisited",
+  "timestamp": 1729631794,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 515.875,
+        "y1": 144.53125,
+        "x2": 922.75,
+        "y2": 162.53125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "https://www.whatismybrowser.com/detect/is-javascript-enabled",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: https://www.whatismybrowser...",
+      "element": 

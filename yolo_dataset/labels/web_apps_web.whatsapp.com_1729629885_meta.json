@@ -1,0 +1,34 @@
+{
+  "url": "https://web.whatsapp.com",
+  "category": "web_apps",
+  "timestamp": 1729629885,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1137.375,
+        "y1": 208.5,
+        "x2": 1264.578125,
+        "y2": 246.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get the app",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Get the app",
+      "element": 

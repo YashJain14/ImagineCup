@@ -1,0 +1,34 @@
+{
+  "url": "https://softonic.com",
+  "category": "mostvisited",
+  "timestamp": 1729631725,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 320.0,
+        "y1": 0,
+        "x2": 384.0,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Men\u00fa principal",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Men\u00fa principal",
+      "element": 

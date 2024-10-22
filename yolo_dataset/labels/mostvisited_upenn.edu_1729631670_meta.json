@@ -1,0 +1,34 @@
+{
+  "url": "https://upenn.edu",
+  "category": "mostvisited",
+  "timestamp": 1729631672,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 322.5,
+        "y1": 47.0,
+        "x2": 688.578125,
+        "y2": 83.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Penn\u2019s Way \u2013 Give from the Heart",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Penn\u2019s Way \u2013 Give from the ...",
+      "element": 

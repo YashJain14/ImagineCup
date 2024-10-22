@@ -1,0 +1,34 @@
+{
+  "url": "https://flickr.com",
+  "category": "mostvisited",
+  "timestamp": 1729631652,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 8.0,
+        "x2": 122.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "heading",
+      "accessibility": {
+        "aria_label": "Flickr logo. If you click it, you\u2019ll go home",
+        "title": "Flickr logo. If you click it, you\u2019ll go home",
+        "alt_text": null,
+        "role": "heading"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Flickr logo. If you click i...",
+      "element": 

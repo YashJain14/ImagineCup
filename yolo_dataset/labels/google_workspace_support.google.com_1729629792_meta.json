@@ -1,0 +1,34 @@
+{
+  "url": "https://support.google.com/sheets/",
+  "category": "google_workspace",
+  "timestamp": 1729629793,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 8.0,
+        "x2": 60.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Main menu",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Main menu",
+      "element": 

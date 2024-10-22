@@ -1,0 +1,34 @@
+{
+  "url": "https://www.splunk.com",
+  "category": "dashboards",
+  "timestamp": 1729629724,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 200.0,
+        "y1": 80.5625,
+        "x2": 318.40625,
+        "y2": 137.5625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: logo",
+      "element": 

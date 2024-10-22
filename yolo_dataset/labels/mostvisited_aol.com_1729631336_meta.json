@@ -1,0 +1,34 @@
+{
+  "url": "https://aol.com",
+  "category": "mostvisited",
+  "timestamp": 1729631338,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 200.0,
+        "y1": 22.0,
+        "x2": 275.0,
+        "y2": 63.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Click here to refresh",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Click here to refresh",
+      "element": 

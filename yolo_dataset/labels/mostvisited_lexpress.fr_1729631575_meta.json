@@ -1,0 +1,34 @@
+{
+  "url": "https://lexpress.fr",
+  "category": "mostvisited",
+  "timestamp": 1729631576,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 325.046875,
+        "y1": 42.0,
+        "x2": 346.046875,
+        "y2": 60.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label",
+      "element": 

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.behance.net",
+  "category": "design",
+  "timestamp": 1729629664,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 0,
+        "x2": 106.0,
+        "y2": 55.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Behance\nNavigate to behance.net",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Behance\nNavigate to behance...",
+      "element": 

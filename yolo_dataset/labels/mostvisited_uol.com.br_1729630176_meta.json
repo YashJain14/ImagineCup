@@ -1,0 +1,34 @@
+{
+  "url": "https://uol.com.br",
+  "category": "mostvisited",
+  "timestamp": 1729630178,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 365.0,
+        "y1": 20.796875,
+        "x2": 459.6875,
+        "y2": 35.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ingresso.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INGRESSO.COM",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ingresso.com",
+      "element": 

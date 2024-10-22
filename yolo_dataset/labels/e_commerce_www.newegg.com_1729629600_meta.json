@@ -1,0 +1,34 @@
+{
+  "url": "https://www.newegg.com",
+  "category": "e_commerce",
+  "timestamp": 1729629601,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 0,
+        "x2": 146.0,
+        "y2": 102.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Newegg.com - Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and More!",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Newegg.com - Computer Parts...",
+      "element": 

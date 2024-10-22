@@ -1,0 +1,34 @@
+{
+  "url": "https://asana.com",
+  "category": "productivity",
+  "timestamp": 1729629633,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1248.78125,
+        "y1": 12.0,
+        "x2": 1354.578125,
+        "y2": 36.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn more",
+      "element": 

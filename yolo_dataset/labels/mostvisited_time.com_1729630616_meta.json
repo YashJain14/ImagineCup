@@ -1,0 +1,34 @@
+{
+  "url": "https://time.com",
+  "category": "mostvisited",
+  "timestamp": 1729630617,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 48.0,
+        "y1": 14.0,
+        "x2": 278.421875,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sign Up for Our Newsletter",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Sign Up for Our Newsletter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign Up for Our Newsletter",
+      "element": 

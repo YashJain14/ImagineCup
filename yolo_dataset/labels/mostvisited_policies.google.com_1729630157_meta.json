@@ -1,0 +1,34 @@
+{
+  "url": "https://policies.google.com",
+  "category": "mostvisited",
+  "timestamp": 1729630157,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 22.0,
+        "x2": 248.46875,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Privacy & Terms",
+        "title": "Privacy & Terms",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy & Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy & Terms",
+      "element": 

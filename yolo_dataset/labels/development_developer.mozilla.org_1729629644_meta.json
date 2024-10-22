@@ -1,0 +1,34 @@
+{
+  "url": "https://developer.mozilla.org",
+  "category": "development",
+  "timestamp": 1729629645,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1156.875,
+        "y1": 17.0,
+        "x2": 1218.625,
+        "y2": 37.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Scrimba",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Scrimba",
+      "element": 

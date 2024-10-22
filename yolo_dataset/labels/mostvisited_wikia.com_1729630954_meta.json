@@ -1,0 +1,34 @@
+{
+  "url": "https://wikia.com",
+  "category": "mostvisited",
+  "timestamp": 1729630956,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 3.0,
+        "y1": 10.0,
+        "x2": 63.0,
+        "y2": 71.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Fandom homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FANDOM",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Fandom homepage",
+      "element": 

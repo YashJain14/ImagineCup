@@ -1,0 +1,34 @@
+{
+  "url": "https://foxnews.com",
+  "category": "mostvisited",
+  "timestamp": 1729630879,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 446.96875,
+        "y1": 8.0,
+        "x2": 530.96875,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Fox News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Fox News",
+      "element": 

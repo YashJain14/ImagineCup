@@ -1,0 +1,34 @@
+{
+  "url": "https://4shared.com",
+  "category": "mostvisited",
+  "timestamp": 1729630390,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1155.0,
+        "y1": 25.0,
+        "x2": 1545.0,
+        "y2": 61.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log In Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Log In Sign Up",
+      "element": 

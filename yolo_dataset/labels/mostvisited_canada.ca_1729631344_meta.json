@@ -1,0 +1,34 @@
+{
+  "url": "https://canada.ca",
+  "category": "mostvisited",
+  "timestamp": 1729631346,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 807.0,
+        "y1": 275.515625,
+        "x2": 945.0,
+        "y2": 316.515625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: English",
+      "element": 

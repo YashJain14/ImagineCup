@@ -1,0 +1,34 @@
+{
+  "url": "https://ibm.com",
+  "category": "mostvisited",
+  "timestamp": 1729630992,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 578.6875,
+        "x2": 736.0,
+        "y2": 646.6875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "caem-button-group",
+      "element_type": "list",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "list"
+      },
+      "content": {
+        "text": "Join the conversation\nSee product announcements",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Join the conversation\nSee p...",
+      "element": 

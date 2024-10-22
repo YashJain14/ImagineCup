@@ -1,0 +1,34 @@
+{
+  "url": "https://amazon.de",
+  "category": "mostvisited",
+  "timestamp": 1729630327,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 722.453125,
+        "y1": 641.0,
+        "x2": 829.046875,
+        "y2": 657.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Amazon services",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Amazon services",
+      "element": 

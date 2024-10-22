@@ -1,0 +1,34 @@
+{
+  "url": "https://it.wikipedia.org",
+  "category": "mostvisited",
+  "timestamp": 1729630830,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 200.0,
+        "y1": 115.453125,
+        "x2": 201.0,
+        "y2": 116.453125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Vai alla navigazione",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Vai alla navigazione",
+      "element": 

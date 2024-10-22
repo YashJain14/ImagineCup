@@ -1,0 +1,34 @@
+{
+  "url": "https://disqus.com",
+  "category": "mostvisited",
+  "timestamp": 1729631218,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1095.75,
+        "y1": 19.0,
+        "x2": 1168.46875,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Join now >>",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Join now >>",
+      "element": 

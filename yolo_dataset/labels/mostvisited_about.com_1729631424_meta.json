@@ -1,0 +1,34 @@
+{
+  "url": "https://about.com",
+  "category": "mostvisited",
+  "timestamp": 1729631424,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 320.0,
+        "y1": 22.0,
+        "x2": 550.0,
+        "y2": 75.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "visit the Dotdash Meredith Homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: visit the Dotdash Meredith ...",
+      "element": 

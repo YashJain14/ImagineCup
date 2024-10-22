@@ -1,0 +1,34 @@
+{
+  "url": "https://slack.com",
+  "category": "web_apps",
+  "timestamp": 1729629919,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 345.0,
+        "y1": 16.0,
+        "x2": 445.0,
+        "y2": 61.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Slack",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Slack",
+      "element": 

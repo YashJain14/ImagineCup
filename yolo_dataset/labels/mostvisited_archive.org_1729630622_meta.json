@@ -1,0 +1,34 @@
+{
+  "url": "https://archive.org",
+  "category": "mostvisited",
+  "timestamp": 1729630622,
+  "image_size": {
+    "width": 1920,
+    "height": 941
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 298.0,
+        "y1": 99.0,
+        "x2": 397.953125,
+        "y2": 127.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Archive-It",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Archive-It",
+      "element": 
